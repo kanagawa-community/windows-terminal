@@ -49,6 +49,6 @@ bash <(curl -fsSL https://raw.githubusercontent.com/kanagawa-community/.github/m
 
 It fetches the shared preview scripts from the
 [.github repository](https://github.com/kanagawa-community/.github). `scripts/preview.sh` holds the port-specific part
-and needs `bash`, `tmux`, `eza`, `fastfetch`, and `rsync`. It does not need Windows Terminal. See the
+and needs `tmux`, `eza`, `fastfetch`, and `rsync`. It does not need Windows Terminal. See the
 [preview standard](https://github.com/kanagawa-community/.github/blob/main/docs/PREVIEWS.md)
 for the rest.
